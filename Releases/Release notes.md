@@ -4,5 +4,7 @@ Click [here](https://www.formsandflows.nl/redirects/spot-github-backlog) for cha
 
 ## Release 1.0 (2024-02-29)
 
+Initial release
+
 * [Managed solution](https://github.com/formsandflows/SPOT/raw/main/Releases/SPOT_1.0_Managed.zip)
 * [Unmanaged solution](https://github.com/formsandflows/SPOT/raw/main/Releases/SPOT_1.0_Unmanaged.zip)
