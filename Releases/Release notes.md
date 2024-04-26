@@ -8,3 +8,5 @@ Initial release
 
 * [Managed solution](https://github.com/formsandflows/SPOT/raw/main/Releases/SPOT_1.0_Managed.zip)
 * [Unmanaged solution](https://github.com/formsandflows/SPOT/raw/main/Releases/SPOT_1.0_Unmanaged.zip)
+
+This release uses [PACo](https://www.formsandflows.nl/paco) release 3.1.0.
