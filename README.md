@@ -12,6 +12,12 @@ In its core, **SPOT** is build to:
 
 **SPOT** consists of several canvas apps (Microsoft Power Apps) and many cloud flows (Microsoft Power Automate).
 
+If **SPOT** is useful to you, I would very much appreciate it if you bought me a coffee: [https://www.buymeacoffee.com/rickbakker](https://www.buymeacoffee.com/rickbakker) 👍
+
+And with that, I wish you a lot of fun creating your business solutions with the Microsoft Power Platform and of course also with **SPOT** 😁👊
+
+Rick
+
 ## Canvas apps (Power Apps)
 * SPOT - Definition
 ![SPOT - Definition_1](https://github.com/formsandflows/SPOT/assets/35654198/0fb6cb5e-373f-4d4d-a83d-00d370007279)
@@ -27,7 +33,6 @@ In its core, **SPOT** is build to:
 In general, SPOT will consist of a cloud flow per object type and per object action (Create, Update, Delete and Validate). The available cloud flows depends on the version of SPOT. The first release of SPOT consists of 17 cloud flows. All cloud flows are called from a canvas app.
 
 ## Documentation
-
 Links to general documentation can be found [here](https://www.formsandflows.nl/redirects/spot-github-documentation).
 
 ## Feature request
@@ -36,8 +41,4 @@ You can use the form on [this](https://www.formsandflows.nl/redirects/spot-githu
 ## Report an issue
 You can use the form on [this](https://www.formsandflows.nl/redirects/spot-github-report-issue) page to report an issue with **SPOT**.
 
-If **PACo** is useful to you, I would very much appreciate it if you bought me a coffee: [https://www.buymeacoffee.com/rickbakker](https://www.buymeacoffee.com/rickbakker) 👍
 
-And with that, I wish you a lot of fun creating your business solutions with the Microsoft Power Platform and of course also with PACo 😁👊
-
-Rick
