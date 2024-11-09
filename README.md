@@ -33,7 +33,7 @@ Rick
 In general, SPOT will consist of a cloud flow per object type and per object action (Create, Update, Delete and Validate). The available cloud flows depends on the version of SPOT. The first release of SPOT consists of 17 cloud flows. All cloud flows are called from a canvas app.
 
 ## Documentation
-Links to general documentation can be found [here](https://www.formsandflows.nl/redirects/spot-github-documentation).
+Links to documentation pages can be found [here](https://www.formsandflows.nl/redirects/spot-github-documentation).
 
 ## Feature request
 You can use the form on [this](https://www.formsandflows.nl/redirects/spot-github-feature-request) page to submit a feature request for **SPOT**.
