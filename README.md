@@ -26,6 +26,8 @@ In its core, **SPOT** is build to:
 ## Cloud flows (Power Automate)
 In general, SPOT will consist of a cloud flow per object type and per object action (Create, Update, Delete and Validate). The available cloud flows depends on the version of SPOT. The first release of SPOT consists of 17 cloud flows. All cloud flows are called from a canvas app.
 
+## Documentation
+
 Links to general documentation can be found [here](https://www.formsandflows.nl/redirects/spot-github-documentation).
 
 ## Feature request
